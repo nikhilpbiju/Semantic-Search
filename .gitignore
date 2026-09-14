@@ -5,3 +5,4 @@ __pycache__/
 *.pycdata/
 venv/
 .env
+.DS_Store
